@@ -49,7 +49,7 @@
 ### Lazuride
 自転車を「貸したい人」と「借りたい人」を繋げ、使われていない自転車を有効活用する、自転車シェアリング専用のスマートロックとアプリ。3Dプリンタで印刷したスマートロックとアプリを Bluetooth で接続して解錠する。CEATEC 2017 ブースで展示。  
 **スマートロック / アプリ**  
-<img src="https://user-images.githubusercontent.com/11363154/55737869-fda01d80-5a60-11e9-8c19-d329df29d3df.png" width="300" /> <img src="https://github.com/Lazuride/lazuride-ios-document/blob/master/images/Tutorial.gif?raw=true" width="300" />
+<img src="https://user-images.githubusercontent.com/11363154/55737869-fda01d80-5a60-11e9-8c19-d329df29d3df.png" width="300" />      <img src="https://github.com/Lazuride/lazuride-ios-document/blob/master/images/Tutorial.gif?raw=true" width="300" />
 
 **Youtube**  
 https://www.youtube.com/watch?v=lcP9r-d4ziQ
